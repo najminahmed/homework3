@@ -71,6 +71,8 @@ tr{
 thead tr:first-child th:first-child{}
 
 footer{
+  min-height: 75px;
+  position: fixed;
   width:100%;
   background:#000000;
   text-align:center;
