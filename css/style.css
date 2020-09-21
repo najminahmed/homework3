@@ -39,10 +39,11 @@ p{ padding-top: 15px;
 a{ font-size: 16px;
   color: #B21F50;
   text-decoration-style: wavy;
-  
-
 }
 
+a:focus { border: 3px dashed #417243;
+  
+}
 table{
     border: 2px solid #000000;
 }
