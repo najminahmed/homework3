@@ -41,9 +41,8 @@ a{ font-size: 16px;
   text-decoration-style: wavy;
 }
 
-a:focus { border: 3px dashed #417243;
-  
-}
+a:focus { border: 3px dashed #417243; }
+
 table{
     border: 2px solid #000000;
 }
