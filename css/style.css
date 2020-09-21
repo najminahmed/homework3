@@ -24,6 +24,8 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
+  text-align: center;
+  line-height: 2;
 }
 
 caption{
