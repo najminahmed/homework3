@@ -68,7 +68,7 @@ tr{
 
 }
 
-th{min-width: 125px;
+thead{min-width: 125px;
   padding: 10px;
   text-align: center;
   color: white;
