@@ -55,6 +55,7 @@ table{
 
 .colhead{min-width: 125px;
   padding: 10px;
+  vertical-align: middle;
   text-align: center;
   text-transform: uppercase;
   background-color: #7e0820;
