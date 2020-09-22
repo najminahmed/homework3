@@ -75,8 +75,8 @@ tr{text-align: center;
   padding: 10px;
 }
 
-tr:hover {background-color: rgba(126,8,48,0.25);}
 tr:nth-child(even){background-color: #D1D1D1}
+tr:hover {background-color: rgba(126,8,48,0.25);}
 
 *{
 
