@@ -81,6 +81,8 @@ tr:nth-child(even){background-color: #D1D1D1}
 }
 
 thead tr:first-child th:first-child{
+  text-align: center;
+  padding: 10px;
 }
 
 footer{
