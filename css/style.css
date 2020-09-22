@@ -68,6 +68,14 @@ tr{
 
 }
 
+th{min-width: 125px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  background-color: #7e0820;
+}
+
 tr:nth-child(even){background-color: #D1D1D1}
 
 *{
