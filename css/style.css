@@ -91,10 +91,10 @@ border-top-left-radius: 10px;
 thead tr:first-child th:last-child{
 border-top-right-radius: 10px;
 }
-tfoot tr:last-child td:first-child {
+tbody tr:last-child td:first-child {
   border-bottom-left-radius: 10px;
 }
-tfoot tr:last-child td:last-child {
+tbody tr:last-child td:last-child {
   border-bottom-right-radius: 10px;
 }
 
