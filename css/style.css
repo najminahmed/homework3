@@ -68,20 +68,18 @@ tr{
 
 }
 
-th{ min-width: 125px;
-  padding: 10px;
-  text-align: center;
-  text-transform: uppercase;
-  color: white;
-  background-color: #7e0820;
-  
-}
 
 *{
 
 }
 
-thead tr:first-child th:first-child{}
+thead tr:first-child th:first-child{
+  min-width: 125px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  background-color: #7e0820;}
 
 footer{
   min-height: 75px;
