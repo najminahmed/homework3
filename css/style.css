@@ -103,6 +103,7 @@ tbody tr:last-child td:last-child {
 footer{
   min-height: 75px;
   position: fixed;
+  left: 0;
   bottom: 0;
   width:100%;
   background:#000000;
