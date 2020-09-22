@@ -49,8 +49,11 @@ table{
     border: 2px solid #000000;
 }
 
-.colhead{
-  background-color: #7e0830;
+.colhead{min-width: 125px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #7e0820;
   color: #FFFFFF;
 }
 
@@ -68,13 +71,6 @@ tr{
 
 }
 
-thead{min-width: 125px;
-  padding: 10px;
-  text-align: center;
-  color: white;
-  text-transform: uppercase;
-  background-color: #7e0820;
-}
 
 tr:nth-child(even){background-color: #D1D1D1}
 
