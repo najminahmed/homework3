@@ -75,12 +75,7 @@ tr:nth-child(even){background-color: #D1D1D1}
 }
 
 thead tr:first-child th:first-child{
-  min-width: 125px;
-  padding: 10px;
-  text-align: center;
-  text-transform: uppercase;
-  color: white;
-  background-color: #7e0820;}
+}
 
 footer{
   min-height: 75px;
